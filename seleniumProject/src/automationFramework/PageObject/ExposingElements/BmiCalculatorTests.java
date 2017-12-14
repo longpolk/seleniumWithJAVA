@@ -1,4 +1,4 @@
-package automationFramework.tests.PageObject.ExposingElements;
+package automationFramework.PageObject.ExposingElements;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

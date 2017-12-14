@@ -1,4 +1,4 @@
-package automationFramework.tests.PageObject.ExposingOperations;
+package automationFramework.PageObject.ExposingOperations;
 
 import java.util.concurrent.TimeUnit;
 

@@ -1,4 +1,4 @@
-package automationFramework.tests.PageObject.ExposingOperations;
+package automationFramework.PageObject.ExposingOperations;
 
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
